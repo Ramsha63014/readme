@@ -1,4 +1,5 @@
 #HCI 104475: Education#
+
 ###PROJECT MEMBERS###
 StdID | Name
 ------------ | -------------
@@ -17,30 +18,46 @@ f. Cooperation
 g. Recognition
 
 ## Tasks Performed ##
+
 A task is an activity which you have to do. The actual reason of using a device or interacting with an interface is to accomplish a task.
 Following are the task:
 
+
 1. ###Task 1: Attendance###
+
 Manuals methods, such as paper rolls and calling, can be time consuming. Teachers must sacrifice valueable time, and applicants are often responsible gathering attendance reports and transferring data manually to digital recordings. Although instructors require less time, student registration sheets can be easily filled out for friends, but applicants still need transfer time.
 Benefits for attendance are: Accuracy, Real time tracing, Flexibility, Efficiency.
 
+
 2. ###Task 2: Feedback###
+
 Technology can help teachers to provide feedback to students to review their work. It may help students to improve their work.
 
+
 3. ###Task 3: Connecting classrooms to community###
+
 It's easy to forget that student success at school also depends on what happens outside of school. Involving students and teachers with the wider community can inhance their learning. For example, universities and companies have helped the community improve the quality of teaching in schools. Industrial engineers and scientists often play mentoring role wiith teachers.
 
+
 4. ###Task 4: Team work###
+
 The real goal is interaction, the interaction between two people, partners or small groups. Student assessments have shown impressive success in understanding. In addition, students improve their ability to work with one another and bring their design ideas to a real audience. It can also help students to develop their skills and confidence level.
 
+
 5. ###Task 5: Time###
+
 The amount of time student going and returning from an institute saved. The advantage for this is concentration on learning increases because of time saved, improve time management, Less fuel consumption.
 
+
 6. ###Task 6: Fee Vouchar###
+
 Student's feel difficulty in going here and there for just a paper work. In online system, they can easily submit their dues by mailing.
 
+
 ##Prospect Technology Use ##
+
 I think mobile app can be incooperated.
+
 
 ##References##
 - https://www.101domain.com/education.htm#:~:text=EDUCATION%20domain%20tells%20internet%20users,and%20distributing%20educational%20content%20online.%20. 
