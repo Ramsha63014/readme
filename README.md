@@ -55,7 +55,7 @@ Student's feel difficulty in going here and there for just a paper work. In onli
 
 ## Gulf of Execution and Evaluation
 
-The aim for this project is to organize students and teachers interaction with the help of provided options or tasks they both will be performing and able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures.Our goal is to give teachers and student both relaxation in using our app.
+The aim for this project is to organize students and teachers interaction with the help of provided options or tasks they both will be performing and able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures. Our goal is to give teachers and student both relaxation in using our app.
 
 
 
