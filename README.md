@@ -24,7 +24,7 @@ Following are the task:
 ### Task 1: Attendance
 
 Manuals methods, such as paper rolls and calling, can be time consuming. Teachers must sacrifice valueable time, and applicants are often responsible gathering attendance reports and transferring data manually to digital recordings. Although instructors require less time, student registration sheets can be easily filled out for friends, but applicants still need transfer time.
-Benefits for attendance are: Accuracy, Real time tracing, Flexibility, Efficiency.
+Benefits for attendance are: Accuracy, Real time tracing, Flexibility, Efficiency. 
 
 
 ### Task 2: Feedback
