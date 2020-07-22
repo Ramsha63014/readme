@@ -52,16 +52,16 @@ The amount of time student going and returning from an institute saved. The adva
 Student's feel difficulty in going here and there for just a paper work. In online system, they can easily submit their dues by mailing.
 
 
-## Prospect Technology Use
 
-I think mobile app can be incooperated.
-
-
-### Gulf of Execution and Evaluation
+## Gulf of Execution and Evaluation
 
 The aim for this project is to organize students and teachers interaction with the help of provided options or tasks they both will be performing and able to organize their work or learning material in one place. From teacher’s point of view, they can organize the lecture material and quizzes on oneside and as for students they will have their own options to discover tasks relating to their lectures.Our goal is to give teachers and student both relaxation in using our app.
 
 
+
+## Prospect Technology Use
+
+I think mobile app can be incooperated.
 
 
 
